@@ -1,6 +1,8 @@
 # Bill-Pay-Application
 
-Requirement overview and high level features 
+XYZ Corporation would like to create a new bill payment application to act as hub between customers and billers. XYZ Corporation will maintain customer account with balances in it, will maintain biller list along with bill data and will store all transaction data.
+
+# Requirement overview and high level features 
 
 Registration : Provide a feature to “register” customer for paying bills. As part of registration capture email id only.  Successful registration should create a “stored value account’ (wallet) associated with the registered customer.  Option for customer to move funds to the wallet as part of registration.
 
